@@ -12,7 +12,7 @@ Make custom cursors for project zomboid!
 - Pick your images directory you wish to be your cursor.
 - Convert the Image
 - Go to media/ui of your Project Zomboid Folder.
-- Replace cursor_white.png with your converted one.
+- Replace cursor_white.png with your converted one. ( MAKE SURE TO MAKE A BACKUP FIRST! )
 
 ## Required Packages for running directly from source:
 
