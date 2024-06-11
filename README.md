@@ -1,4 +1,4 @@
-# Zomboid_Cursor_Converter
+# Zomboid Cursor Converter
 Make custom cursors for project zomboid!
 
 # Required Packages for running directly from source:
