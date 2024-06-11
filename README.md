@@ -4,8 +4,8 @@ Make custom cursors for project zomboid!
 
 ## Why?
 
-Due to a bug in the game's engine, the cursor's red and blue channels are flipped.
-I've made this tool to provide a temporary fix.
+- Due to a bug in the game's engine, the cursor's red and blue channels are flipped.
+- I've made this tool to provide a temporary fix.
 
 ## How to use:
 
@@ -20,5 +20,5 @@ I've made this tool to provide a temporary fix.
 - OpenCV-Python
 
 ## NOTES:
-I'm not affliated with The Indie Stone.
-This tool might be useless in Build 42 if they decide to fix the bug.
+- I'm not affliated with The Indie Stone.
+- This tool might be useless in Build 42 if they decide to fix the bug.
